@@ -26,10 +26,10 @@
         <ImageView
             android:id="@+id/iv_image"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="180dp"
             android:layout_marginTop="16dp"
             android:contentDescription="Quiz Image"
-            tools:src="@drawable/ic_flag_of_germany"/>
+            tools:src="@drawable/que10"/>
 
         <LinearLayout
             android:layout_width="match_parent"
